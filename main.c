@@ -22,5 +22,10 @@ failFish* makeFailFish(int num){
 
 }
 int main(void){
+    failGroup *failGroups[10];
+    for(int i =0; i<11;i++){
+        failGroups[i]= NULL;
+    }
+
 
 }
